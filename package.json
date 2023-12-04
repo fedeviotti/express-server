@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/fedeviotti/express-server#readme",
   "dependencies": {
-    "express": "4.18.2"
+    "express": "4.18.2",
+    "starwars-names-fv": "1.5.0"
   }
 }
